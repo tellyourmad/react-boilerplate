@@ -1,6 +1,5 @@
-.DS_Store
 node_modules
-www
+dist
 
 # local env files
 .env.local
@@ -20,21 +19,7 @@ yarn-error.log*
 *.sln
 *.sw*
 
-platforms/ios/*
-platforms/android/*
 
-plugins
 package-lock.json
-resources/ios
-resources/android
-resources/icon.png.md5
-resources/splash.png.md5
 .project
-build/android
-build/ios
-fabfile.pyc
-package_engine.pyc
-.env.development
 yarn.lock
-ss_deploy_engine.pyc
-oss_deploy_engine.pyc
